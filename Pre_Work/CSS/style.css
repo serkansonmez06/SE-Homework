@@ -1,0 +1,57 @@
+.base{min-height: 1000ps;
+      width: 1250;}
+
+    #title{min-height: 250px; min-width: 1208px;position:relative;}
+    .name{text-decoration: underline; text-align: center;
+          color:red;}
+    span{text-transform: uppercase;font-style: italic;}
+    .welcome{text-align: center; color: orange;}
+    .title{text-align: center; color: blue;}
+    body{background-color: lightgreen;}
+    
+    p{font-size: 1.15em;font-style: italic;
+      font-family: sans-serif;}
+     ol{font-style: italic; font-family: sans-serif;
+        font-size: 1.15em;}
+
+    #firstimage{min-height: 250px; min-width: 1208px;}
+    #images{margin-left: 250px;padding-right: 200px;}
+    #div4{min-height: 250px; min-width: 1208px;}
+    form{background-color: red;
+         font-style: italic;
+         border-style: solid;
+         padding: 35px;
+         width: 200px;
+         margin-left: 35%;}
+         #form_title{color: white;}
+
+         input[type=button]:hover{color: black;
+         background-color: green;
+         padding: 3px;}
+         input[type=text]:focus{background-color: lightgreen;
+         color:black;
+         width: 75%}
+
+         a{color: purple;}
+         .link{ position: fixed;right:0;bottom:0;}
+
+         div,div1{display: inline-block;padding-left: 20px;}
+         table:hover{background-color: orange;}
+         
+         #secondimage{float:right;margin-right: 85px;}
+         #favteamt{color:blue; padding-left: 760px;}
+
+         table{width: 40%;height: 237px;
+          margin-left: 50px;margin-bottom: 40px;}
+      
+         .chtitles{color: red; text-align: center;}
+         .info{ color: darkgreen;
+          font-family: sans-serif;text-align: center;}
+
+
+
+
+
+
+
+
